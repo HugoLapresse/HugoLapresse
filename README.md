@@ -7,8 +7,8 @@
 ---
 
 ### 📊 Mes stats GitHub  
-![Mes stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=radical)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=radical)  
+![Mes stats](https://github-readme-stats.vercel.app/api?username=HugoLapresse&show_icons=true&theme=radical)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLapresse&layout=compact&theme=radical)  
 
 ---
 
