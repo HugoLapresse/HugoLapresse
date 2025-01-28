@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Hugo Lapresse !  
 
-<!--
-**HugoLapresse/HugoLapresse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Développeur JavaScript (Node.js)  
+- 🚀 Créateur de **[HypeProtect](https://hypeprotect.fr)**, un bot Discord pour la auto modération et l'anti-raid.  
+- 🌟 Passionné par la création de projets innovants et les architectures modulaires.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mes stats GitHub  
+![Mes stats](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=radical)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-utilisateur&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Mes projets  
+- **[HypeProtect](https://hypeprotect.fr)**  
+- *(Autres projets à venir !)*  
+
+---
+
+### 💬 Contactez-moi  
+📧 Email : [hugo@hypeprotect.fr](mailto:hugo@hypeprotect.fr)  
+
+---
+
+### 🔗 Suivez-moi  
+- 🌟 [Portfolio - Soon !](https://exemple.com)
+- 🐦 [Twitter - Soon !](https://x.com)  
