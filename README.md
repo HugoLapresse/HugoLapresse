@@ -6,12 +6,6 @@
 
 ---
 
-### 📊 Mes stats GitHub  
-![Mes stats](https://github-readme-stats.vercel.app/api?username=HugoLapresse&show_icons=true&theme=radical)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLapresse&layout=compact&theme=radical)  
-
----
-
 ### 🌐 Mes projets  
 - **[HypeProtect](https://hypeprotect.fr)**  
 - *(Autres projets à venir !)*  
