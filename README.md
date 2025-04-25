@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Hugo Lapresse !  
 
-### 💻 Développeur JavaScript (Node.js)  
+### 💻 Développeur JavaScript
 - 🚀 Créateur de **[HypeProtect](https://hypeprotect.fr)**, un bot Discord pour la auto modération et l'anti-raid.  
 - 🌟 Passionné par la création de projets innovants et les architectures modulaires.  
 
