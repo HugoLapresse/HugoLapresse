@@ -13,10 +13,10 @@
 ---
 
 ### 💬 Contactez-moi  
-📧 Email : [hugo@hypeprotect.fr](mailto:hugo@hypeprotect.fr)  
+📧 Email : [hugo.lapresse@hypeprotect.fr](mailto:hugo.lapresse@hypeprotect.fr)  
 
 ---
 
 ### 🔗 Suivez-moi  
 - 🌟 [Portfolio - Soon !](https://exemple.com)
-- 🐦 [Twitter - Soon !](https://x.com)  
+- 🐦 [Discord - Soon !](https://https://discord.gg/hypeprotect)  
