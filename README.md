@@ -33,12 +33,4 @@
 - 🌟 [Portfolio - Soon !](https://exemple.com)
 - 🐦 [Discord](https://discord.gg/hypeprotect)
 
----
-
-### 🏆 Trophées
-
-![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=HugoLapresse&theme=vue-dark&row=1&no-frame=true)
-
----
-
 > *✨ Merci de visiter mon profil GitHub !*
