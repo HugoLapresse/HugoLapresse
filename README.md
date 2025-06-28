@@ -13,6 +13,12 @@
 
 ---
 
+### 🕒 Graphique d’activité
+
+![Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=HugoLapresse&theme=github-compact&hide_border=true)
+
+---
+
 ### 🌐 Mes projets  
 - **[HypeProtect](https://hypeprotect.fr)**
 
@@ -26,5 +32,13 @@
 ### 🔗 Suivez-moi  
 - 🌟 [Portfolio - Soon !](https://exemple.com)
 - 🐦 [Discord](https://discord.gg/hypeprotect)
+
+---
+
+### 🏆 Trophées
+
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=HugoLapresse&theme=vue-dark&row=1&no-frame=true)
+
+---
 
 > *✨ Merci de visiter mon profil GitHub !*
